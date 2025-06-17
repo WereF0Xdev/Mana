@@ -1,0 +1,29 @@
+# Main Class
+cpw.mods.bootstraplauncher.BootstrapLauncher
+
+# NeoForge Run-Type Program Arguments
+--launchTarget
+neoforgeclientdatadev
+--assetIndex
+19
+--assetsDir
+C:\\Users\\feder\\.gradle\\caches\\neoformruntime\\assets
+--gameDir
+.
+--fml.fmlVersion
+6.0.11
+--fml.mcVersion
+1.21.4
+--fml.neoForgeVersion
+21.4.138
+--fml.neoFormVersion
+20241203.161809
+
+# User Supplied Program Arguments
+--mod
+mana
+--all
+--output
+"C:\\Users\\feder\\Documents\\Minecraft Mods\\Mana\\src\\generated\\resources"
+--existing
+"C:\\Users\\feder\\Documents\\Minecraft Mods\\Mana\\src\\main\\resources"
