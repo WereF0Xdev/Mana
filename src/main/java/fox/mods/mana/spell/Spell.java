@@ -7,7 +7,8 @@ public enum Spell {
 
     NONE("None", "none", RegistryUtils.formModRegistryName("none"), 0, ChatFormatting.GRAY.toString(), 0.0, 0.0, 0),
     ZAP("Zap", "zap", RegistryUtils.formModRegistryName("zap"), 0, ChatFormatting.DARK_AQUA.toString(), 1.5, 0.2, 5),
-    FIREBALL("Fireball", "fireball", RegistryUtils.formModRegistryName("fireball"), 0, ChatFormatting.GOLD.toString(), 2, 0.0, 7);
+    FIREBALL("Fireball", "fireball", RegistryUtils.formModRegistryName("fireball"), 0, ChatFormatting.GOLD.toString(), 2, 0.0, 7),
+    TELEPORT("Teleport", "teleport", RegistryUtils.formModRegistryName("teleport"), 0, ChatFormatting.LIGHT_PURPLE.toString(), 2.5, 0.0, 9);
 
     private final String displayName;
     private final String name;
